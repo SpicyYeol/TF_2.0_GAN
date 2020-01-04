@@ -7,6 +7,7 @@ This README.md file will be update when I make new GAN example.
 
 
 Contents
+
 0. GAN_BASE ( This is the basis for all GAN example files.)
 1. GAN : Goodfellow et al. (2014): Generative Adversarial Networks. arXiv:1406.2661
 
